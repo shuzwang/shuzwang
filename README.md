@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**shuzwang/shuzwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [My webpage](https://shuzwang.github.io/) 
+- The webpage is built on [Jemdoc+MathJax](https://github.com/wsshin/jemdoc_mathjax).
+- To build your own Jemdoc wesite:
+  - Install python. 
+    - Conda is recommended. 
+  - Download Jemdoc.
+    - I recommend [Jemdoc+MathJax](https://github.com/wsshin/jemdoc_mathjax) since it supports python 3.
+  - Edit your Jemdoc. 
+    - [Jemdoc template](https://github.com/mkhaled87/jemdoc-ready).
+  - Convert Jemdoc to HTML.
+    - For example, in Windows Powershell, run `python ./jemdoc.py your_jemdoc.jemdoc` 

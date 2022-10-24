@@ -1,0 +1,80 @@
+# jemdoc: menu{MENU}{index.html}
+= Shuze Wang
+
+~~~
+{}{img_left}{media/shuze.JPG}{G.}{250}
+
+Shuze Wang\n
+Ph.D. Candidate\n
+[https://medicine.umich.edu/dept/computational-medicine-bioinformatics/ Department of Computational Medicine and Bioinformatics],\n
+[https://umich.edu/ University of Michigan at Ann Arbor]\n
+E-mail: shuzwang-at-umich-dot-edu
+~~~
+
+
+== Education
+- Ph.D. in Bioinformatics, 2018 - present, [https://umich.edu/ University of Michigan], Ann Arbor, MI.\n
+Thesis advisors: Professors [https://medicine.umich.edu/dept/khri/joerg-waldhaus-phd Joerg Waldhaus] and [https://jieliu6.github.io/ Jie Liu].
+- M.S. in Electrical Engineering & Computer Science, 2022, [https://umich.edu/ University of Michigan], Ann Arbor.
+- M.S. in Bioinformatics, 2018, [https://umich.edu/ University of Michigan], Ann Arbor.
+- B.M. in Electronic Commerce, 2016, [https://www.cufe.edu.cn/ Central University of Finance & Economics], China.
+- Exchange Program in Management Information Systems, 2014 - 2015, [https://www.purdue.edu/ Purdue University], West Lafayette.
+
+== Publications 
+=== Journal Publications
+- [https://doi.org/10.1101/gr.271080.120 Mapping the regulatory landscape of auditory hair cells from single-cell multi-omics data],\n
+*S. Wang*, M. P. Lee, S. Jones, J. Liu, J. Waldhaus, \n
+*Genome Research* 31 (10), 1885-1899. 2021.
+
+
+- [https://doi.org/10.1186/s13059-022-02668-0 Comprehensive enhancer-target gene assignments improve gene set level interpretation of genome-wide regulatory data],\n
+T. Qin, C. Lee, R. G. Cavalcante, P. Orchard, H. Yao, H. Zhang, *S. Wang*, S. Patil, A. P. Boyle, M. A. Sartor, \n
+*Genome Biol* 23, 105 (2022). 
+
+- [https://doi.org/10.1093/nargab/lqaa006 Poly-Enrich: count-based methods for gene set enrichment testing with genomic regions],\n
+C. T. Lee, R. G. Cavalcante, C. Lee, T. Qin, S. Patil, *S. Wang*,  Z. T. Y. Tsai, A. P. Boyle, M. A. Sartor, \n
+*NAR Genomics and Bioinformatics* Volume 2, Issue 1, March 2020, lqaa006. 
+
+- [https://doi.org/10.1080/07853890.2018.1500702 Estimate of ischemic stroke prevalence according to a novel 4-tiered classification of left ventricular hypertrophy: insights from the general Chinese population],\n
+H. Wang, *S. Wang*, X. Yi, Y. Tao, H. Qian, P. Jia, Y. Chen, Y. Sun, \n
+*Annals of Medicine* VOL. 50, NO.6, 519-528. 2018. 
+
+- [https://doi.org/10.1007/s10067-018-4143-x Body adiposity index, lipid accumulation product, and cardiometabolic index reveal the contribution of adiposity phenotypes in the risk of hyperuricemia among Chinese rural population],\n
+H. Wang, Y. Sun, *S. Wang*, H. Qian, P. Jia, Y. Chen, Z. Li, L. Zhang, \n
+*Clin Rheumatol* 37, 2221-2231 (2018).
+
+=== Manuscripts Under Review
+- Spatial transcriptomic reconstruction of the mouse cochlea suggests morphogen-based principles of tonotopic specification,\n
+*S. Wang*, S. Chakraborty, Y. Fu, M. P. Lee, J. Liu, J. Waldhaus.
+
+
+== Talks
+
+- Opposing gradients of retinoic acid and sonic hedgehog specify tonotopic identity in the mouse cochlea,\n
+*S. Wang*, S. Chakraborty, Y. Fu, M. P. Lee, J. Liu, J. Waldhaus, \n
+*30th conference on Intelligent Systems for Molecular Biology*. July 11, 2022. Madison, Wisconsin. 
+
+- Molecular Mechanism Conferring Spatial Identity during Cochlear Duct Extension,\n
+*S. Wang*, Y. Fu, M. P. Lee, S. Jones, J. Liu, J. Waldhaus, \n
+*12th ACM-BCB ML-SCA workshop*. August 1, 2021. Virtual Presentation. 
+
+- Mapping the regulatory landscape of auditory hair cells from single-cell multi-omics data,\n
+*S. Wang*, M. P. Lee, S. Jones, J. Liu, J. Waldhaus, \n
+*14th Great Lakes Bioinformatics (GLBIO) Conference*. May 12, 2021. Virtual Presentation. 
+
+- Single Cell Chromatin Accessibility Delineates Cellular Identities of the Neonatal Organ of Corti,\n
+*S. Wang*, M. P. Lee, S. Jones, J. Liu, J. Waldhaus, \n
+*28th conference on Intelligent Systems for Molecular Biology*. July 13, 2020. Virtual Presentation. 
+
+- Mapping the regulatory landscape of auditory hair cells from single cell,\n
+*S. Wang*, M. P. Lee, S. Jones, J. Liu, J. Waldhaus, \n
+* The Founders Lecture at University of Michigan*. October 8, 2020. Virtual Presentation. 
+
+- Spatial Reconstruction of the Postnatal Cochlear Duct using scRNA-seq and scATAC-seq,\n
+*S. Wang*, M. P. Lee, J. Liu, J. Waldhaus, \n
+* Lawrence-Hawkins lectureship at University of Michigan*. October 16, 2019. Ann Arbor, Michigan. 
+
+== Teaching Experience
+- *BIOINF 527, Introduction to Bioinformatics & Computational Biology*, Fall, 2022.\n
+Graduate Student Instructor.
+
