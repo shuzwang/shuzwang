@@ -1,19 +1,20 @@
 # jemdoc: menu{MENU}{index.html}
 = Shuze Wang
 
-~~~
-{}{img_left}{media/shuze.JPG}{G.}{250}
+# ~~~
+# {}{img_left}{media/shuze.JPG}{G.}{250}
 
-Shuze Wang\n
-Ph.D. Candidate\n
-[https://medicine.umich.edu/dept/computational-medicine-bioinformatics/ Department of Computational Medicine and Bioinformatics],\n
-[https://umich.edu/ University of Michigan at Ann Arbor]\n
+Shuze Wang, Ph.D.\n
+Research Scientist\n
+[https://www.massgeneral.org/ Massachusetts General Hospital]\n
+# [https://medicine.umich.edu/dept/computational-medicine-bioinformatics/ Department of Computational Medicine and Bioinformatics],\n
+# [https://umich.edu/ University of Michigan at Ann Arbor]\n
 E-mail: shuzwang-at-umich-dot-edu
-~~~
+# ~~~
 
 
 == Education
-- Ph.D. in Bioinformatics, 2018 - present, [https://umich.edu/ University of Michigan], Ann Arbor, MI.\n
+- Ph.D. in Bioinformatics, 2018 - 2023, [https://umich.edu/ University of Michigan], Ann Arbor, MI.\n
 Thesis advisors: Professors [https://medicine.umich.edu/dept/khri/joerg-waldhaus-phd Joerg Waldhaus] and [https://jieliu6.github.io/ Jie Liu].
 - M.S. in Electrical Engineering & Computer Science, 2022, [https://umich.edu/ University of Michigan], Ann Arbor.
 - M.S. in Bioinformatics, 2018, [https://umich.edu/ University of Michigan], Ann Arbor.
@@ -22,30 +23,31 @@ Thesis advisors: Professors [https://medicine.umich.edu/dept/khri/joerg-waldhaus
 
 == Publications 
 === Journal Publications
+
+- [https://www.cell.com/developmental-cell/abstract/S1534-5807(24)00196-5 3D reconstruction of the mouse cochlea from scRNA-seq data suggests morphogen-based principles in apex-to-base specification], \n
+*S. Wang*, S. Chakraborty, Y. Fu, M. P. Lee, J. Liu, J. Waldhaus, \n
+*Developmental Cell*, Vol. 59(12), 1538-1552, 2024.
+
 - [https://doi.org/10.1101/gr.271080.120 Mapping the regulatory landscape of auditory hair cells from single-cell multi-omics data],\n
 *S. Wang*, M. P. Lee, S. Jones, J. Liu, J. Waldhaus, \n
-*Genome Research* 31 (10), 1885-1899. 2021.
+*Genome Research*, Vol. 31 (10), 1885-1899, 2021.
 
 
 - [https://doi.org/10.1186/s13059-022-02668-0 Comprehensive enhancer-target gene assignments improve gene set level interpretation of genome-wide regulatory data],\n
 T. Qin, C. Lee, R. G. Cavalcante, P. Orchard, H. Yao, H. Zhang, *S. Wang*, S. Patil, A. P. Boyle, M. A. Sartor, \n
-*Genome Biol* 23, 105 (2022). 
+*Genome Biol*, Vol. 23(105), 2022. 
 
 - [https://doi.org/10.1093/nargab/lqaa006 Poly-Enrich: count-based methods for gene set enrichment testing with genomic regions],\n
 C. T. Lee, R. G. Cavalcante, C. Lee, T. Qin, S. Patil, *S. Wang*,  Z. T. Y. Tsai, A. P. Boyle, M. A. Sartor, \n
-*NAR Genomics and Bioinformatics* Volume 2, Issue 1, March 2020, lqaa006. 
+*NAR Genomics and Bioinformatics*, Vol. 2(1), 2020. 
 
 - [https://doi.org/10.1080/07853890.2018.1500702 Estimate of ischemic stroke prevalence according to a novel 4-tiered classification of left ventricular hypertrophy: insights from the general Chinese population],\n
 H. Wang, *S. Wang*, X. Yi, Y. Tao, H. Qian, P. Jia, Y. Chen, Y. Sun, \n
-*Annals of Medicine* VOL. 50, NO.6, 519-528. 2018. 
+*Annals of Medicine*, Vol. 50(6), 519-528, 2018. 
 
 - [https://doi.org/10.1007/s10067-018-4143-x Body adiposity index, lipid accumulation product, and cardiometabolic index reveal the contribution of adiposity phenotypes in the risk of hyperuricemia among Chinese rural population],\n
 H. Wang, Y. Sun, *S. Wang*, H. Qian, P. Jia, Y. Chen, Z. Li, L. Zhang, \n
-*Clin Rheumatol* 37, 2221-2231 (2018).
-
-=== Manuscripts Under Review
-- Spatial transcriptomic reconstruction of the mouse cochlea suggests morphogen-based principles of tonotopic specification,\n
-*S. Wang*, S. Chakraborty, Y. Fu, M. P. Lee, J. Liu, J. Waldhaus.
+*Clin Rheumatol*, 37, 2221-2231, 2018.
 
 
 == Talks
